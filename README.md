@@ -15,4 +15,4 @@ Nesse pequeno projeto aprendi um pouco sobre como funciona o básico do Redux se
 
 - [Getting Started with Redux](https://redux.js.org/introduction/getting-started)
 - [Let’s Learn Modern Redux! (with Mark Erikson) — Learn With Jason](https://youtu.be/9zySeP5vH9c)
-- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+- [Redux DevTools](https://github.com/reduxjs/redux-devtools)
